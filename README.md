@@ -12,7 +12,7 @@ O projeto foi pensando em algumas etapas:
 Outras considerações: 
 
 Entre dificuldades e facilidades reconheço que interagir uma API foi desafiador em relaçao ao criar o front end, que é a minha maior facilidade.
-
+:
 
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.1.
