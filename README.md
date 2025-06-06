@@ -1,5 +1,20 @@
 # ViceriHerois
 
+# CONSIDERAÇÕES
+
+O projeto foi pensando em algumas etapas: 
+
+1 - decidir de valeria a pena fazer modularização para o cadastro de herois e superpoderes: A resposta foi não, e decidi isso por esse projeto ser pequeno e com pouco prazo.
+2 - Ao fazer o frontend, primeiro testei as validações no navegador, geralmente eu sempre começo fazendo uma modelagem no banco e depois prossigo na API, mas achei que essa estratégia me pouparia tempo já que o modelo do banco veio pronto e a API seria o maior desafio para mim.
+
+3 - na API foi criado o Model, controller. Fiz o relacionamento das entidades e gerei o Script do SQL dentro dela.
+
+Outras considerações: 
+
+Entre dificuldades e facilidades reconheço que interagir uma API foi desafiador em relaçao ao criar o front end, que é a minha maior facilidade.
+
+
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.1.
 
 ## Development server
